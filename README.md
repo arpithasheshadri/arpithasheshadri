@@ -1,20 +1,5 @@
 ### Hi there 👋
 
-<!--
-**arpithasheshadri/arpithasheshadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
   
 # Arpitha Sheshadri Bhat - Software Engineer
@@ -32,10 +17,10 @@ Welcome to my GitHub! I'm a seasoned Software Engineer based in Boston, MA, spec
 - **Northeastern University, Boston, MA**
   - Master's in Information Systems (May 2025)
 
-<!--
-- **JSS Academy of Technical Education (JSSATE)**
-  - Bachelor's in Computer Science Engineering (2020 - 2025)
-  -->
+
+- **PES Institute Of Technology**
+  - Bachelor's in Information Science and Engineering (2017 - 2021)
+  
 
 ### 💻 Technical Skills
 ### Programming Languages
