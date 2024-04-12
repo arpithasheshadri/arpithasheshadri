@@ -26,7 +26,7 @@ Welcome to my GitHub! I'm a seasoned Software Engineer based in Boston, MA, spec
 </div>
 <div style="flex: 1; text-align: center;">
   
-![Its me]([https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif](https://lottie.host/embed/ea1c2691-4f74-452e-9758-83556b3df5ba/PL57phiE73.json)
+[My Soul](https://lottie.host/embed/ea1c2691-4f74-452e-9758-83556b3df5ba/PL57phiE73.json)
 
 </div>
 </div>
