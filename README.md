@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<div style="display: grid; align-items: center;grid-template-column:1fr 1fr;">
+<div style="display: grid; align-items: center; grid-template-columns: 1fr 1fr;">
   <div style="flex: 1;">
   
 # Arpitha Sheshadri Bhat - Software Engineer
@@ -29,6 +29,7 @@ Welcome to my GitHub! I'm a seasoned Software Engineer based in Boston, MA, spec
 <iframe src="https://lottie.host/embed/ea1c2691-4f74-452e-9758-83556b3df5ba/PL57phiE73.json"></iframe>
 </div>
 </div>
+
 
 
 
