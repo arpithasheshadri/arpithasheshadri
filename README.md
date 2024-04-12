@@ -16,18 +16,13 @@ Here are some ideas to get you started:
 -->
 
 
-<div style="display: grid; align-items: center; grid-template-columns: 1fr 1fr;">
-  <div style="flex: 1;">
   
 # Arpitha Sheshadri Bhat - Software Engineer
 
 Welcome to my GitHub! I'm a seasoned Software Engineer based in Boston, MA, specializing in crafting high-performance, reliable, and maintainable code. I possess expertise across various software development stages, from design to testing and documentation. Let me walk you through my technical skills and professional experience:
 
-</div>
-<div style="flex: 1; text-align: center;">
-  ![GIF](https://res.cloudinary.com/daoq2e2be/image/upload/v1712899950/nw3lgs8854v4u8ruyxmw.gif)
+![GIF](https://res.cloudinary.com/daoq2e2be/image/upload/v1712899950/nw3lgs8854v4u8ruyxmw.gif)
 
-</div>
 
 
 
