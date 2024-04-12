@@ -25,10 +25,8 @@ Welcome to my GitHub! I'm a seasoned Software Engineer based in Boston, MA, spec
 
 </div>
 <div style="flex: 1; text-align: center;">
-  
-<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
+  ![GIF](https://res.cloudinary.com/daoq2e2be/image/upload/v1712899950/nw3lgs8854v4u8ruyxmw.gif)
 
-    <dotlottie-player src="https://lottie.host/ea1c2691-4f74-452e-9758-83556b3df5ba/PL57phiE73.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player></div>
 </div>
 
 
