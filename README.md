@@ -26,7 +26,7 @@ Welcome to my GitHub! I'm a seasoned Software Engineer based in Boston, MA, spec
 </div>
 <div style="flex: 1; text-align: center;">
   
-[My Soul](https://lottie.host/embed/ea1c2691-4f74-452e-9758-83556b3df5ba/PL57phiE73.json)
+<iframe src="https://lottie.host/embed/ea1c2691-4f74-452e-9758-83556b3df5ba/PL57phiE73.json" width="100%" height="400" frameborder="0" allowfullscreen></iframe>
 
 </div>
 </div>
