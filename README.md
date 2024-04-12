@@ -15,12 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Its me](https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif)
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+  <div>
+    <h1>Arpitha Sheshadri Bhat - Software Engineer</h1>
+    <p>Welcome to my GitHub! I'm a seasoned Software Engineer based in Boston, MA, specializing in crafting high-performance, reliable, and maintainable code. I possess expertise across various software development stages, from design to testing and documentation. Let me walk you through my technical skills and professional experience:</p>
+  </div>
+  <div>
+    <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" alt="Its me" style="max-width: 100%;">
+  </div>
+</div>
 
 
-# Arpitha Sheshadri Bhat - Software Engineer
-
-Welcome to my GitHub! I'm a seasoned Software Engineer based in Boston, MA, specializing in crafting high-performance, reliable, and maintainable code. I possess expertise across various software development stages, from design to testing and documentation. Let me walk you through my technical skills and professional experience:
 
 ### 🎓 Education
 - **Northeastern University, Boston, MA**
