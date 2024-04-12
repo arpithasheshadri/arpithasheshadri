@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub! I'm a seasoned Software Engineer based in Boston, MA, specializing in crafting high-performance, reliable, and maintainable code. I possess expertise across various software development stages, from design to testing and documentation. Let me walk you through my technical skills and professional experience:
 
-![GIF]([https://res.cloudinary.com/daoq2e2be/image/upload/v1712899950/nw3lgs8854v4u8ruyxmw.gif](https://lottie.host/embed/ea1c2691-4f74-452e-9758-83556b3df5ba/PL57phiE73.json))
+![GIF](https://res.cloudinary.com/daoq2e2be/image/upload/v1712900155/tzjdwgvqs3ssxnbz9eno.gif)
 
-<iframe src="https://lottie.host/embed/ea1c2691-4f74-452e-9758-83556b3df5ba/PL57phiE73.json"></iframe>
 
 
 
