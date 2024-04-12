@@ -23,6 +23,8 @@ Welcome to my GitHub! I'm a seasoned Software Engineer based in Boston, MA, spec
 
 ![GIF]([https://res.cloudinary.com/daoq2e2be/image/upload/v1712899950/nw3lgs8854v4u8ruyxmw.gif](https://lottie.host/embed/ea1c2691-4f74-452e-9758-83556b3df5ba/PL57phiE73.json))
 
+<iframe src="https://lottie.host/embed/ea1c2691-4f74-452e-9758-83556b3df5ba/PL57phiE73.json"></iframe>
+
 
 
 
