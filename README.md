@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div style="display: grid; align-items: center;grid-template-column:1fr 1fr;">
   <div style="flex: 1;">
   
-<span style="color: yellow;"># Arpitha Sheshadri Bhat - Software Engineer</span>
+# Arpitha Sheshadri Bhat - Software Engineer
 
 Welcome to my GitHub! I'm a seasoned Software Engineer based in Boston, MA, specializing in crafting high-performance, reliable, and maintainable code. I possess expertise across various software development stages, from design to testing and documentation. Let me walk you through my technical skills and professional experience:
 
