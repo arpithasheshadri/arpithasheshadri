@@ -76,6 +76,12 @@ Welcome to my GitHub! I'm a seasoned Software Engineer based in Boston, MA, spec
   ![Unix](https://img.shields.io/badge/-Unix-000000?style=for-the-badge&logo=unix&logoColor=white)
 
 ## Professional Experience
+
+### TGS | Houston, Texas
+Cloud Development Intern | June 2024 - August 2024
+- Developed an IoT historian in the cloud using EMQX MQTT broker, OPCUA schema data modeling, BigQuery, and CloudFunction and GCP Pub/Sub for real-time data integration and management
+- Created interactive data visualizations with GCP Looker Studio, enhancing data analysis and decision-making processes
+
 ### Perfios Software Solutions - Fintech | Bengaluru, India
 Software Development Engineer | Full stack web development | August 2021 – August 2023
 - Integrated JSON schema-based rendering with React, reducing new customer onboarding time by 30% and expediting POC delivery by 20%
